@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ronan-deshays
-- 👀 I’m interested in civil engineering, environmental modelling and computer sciences.
-- 🌱 I’m currently learning SQL and Google App Script
-- 💞️ I’m looking to collaborate on Google App Script, MATLAB, VBA
+- 👀 I’m interested in civil engineering, environmental modelling and computer sciences
+- 🌱 I’m currently learning Microsoft Power Platform
+- 💞️ I’m looking to collaborate on Microsoft Power Platform, Google App Script, Python, VBA and MATLAB
 - 📫 How to reach me : https://www.linkedin.com/in/ronan-deshays/
 
 <!---
