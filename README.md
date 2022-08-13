@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ronan-deshays
-- 👀 I’m interested in civil engineering, environmental modelling and computer sciences
-- 🌱 I’m currently learning Microsoft Power Platform
-- 💞️ I’m looking to collaborate on Microsoft Power Platform, Google App Script, Python, VBA and MATLAB
-- 📫 How to reach me : https://www.linkedin.com/in/ronan-deshays/
+- 👋 Hi, I’m @ronan-deshays, you can reach me on [LinkedIn](https://www.linkedin.com/in/ronan-deshays/) 📫
+- 👀 I’m interested in civil engineering :building_construction:, environmental modelling :world_map: and climate action :earth_africa:
+- :computer: I frequently work with these technologies and programming languages :
+  - Microsoft Power Platform (Apps, Automate Cloud & Desktop, Sharepoint lists, Office scripts)
+  - VBA, Python, Java, C, Windows Batch, Google App Script 
 
 <!---
 ronan-deshays/ronan-deshays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
